@@ -34,10 +34,10 @@ div#header{
 
 .loginbox{
     width: 350px;
-    height: 600px;
+    height: 550px;
     background:#7f8c8d;
     color:#7f8c8d;
-    top:55%;
+    top:50%;
     left:50%;
     border-style: ridge;
     position:absolute;
@@ -47,15 +47,16 @@ div#header{
     background:white;
 }
 h2{
-    margin-top: 0%;
-    padding: 0px;
+    margin: 0%;
+    padding: 0 0 5px;
     text-align: center;
     font-size: 22px;
     color:#34495e;
 }
 
 .avatar{
-    
+    width: 100px;
+ div#container{
 	width: 100%;
 	margin:0 auto;
 }

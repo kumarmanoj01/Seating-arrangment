@@ -81,7 +81,7 @@ ul#nav li a.selected{
 }
 .content p{
 	color: #e74c3c;
-	font-size: 0.73em;	
+	font-size: 0.73em;
 }
 div#box{
 	margin-top: 15px;
@@ -142,11 +142,4 @@ a.mobile:active{
 		}
 	}
 
-}
-#view {
-	border-style: solid;
-	border-color:#f39c12; 
-}
-#view tr{
-	background-color: #2980b9;
 }
